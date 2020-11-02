@@ -4,7 +4,7 @@
 https://shimotmk.github.io/youtube-scroll-animation/
 
 ## 説明
-Bootstrapで作ったテーマです。
+ScrollMagicで作ったアニメーションです。
 Youtubeで解説動画を作りました<br>
 
 <a href="https://youtu.be/UA6rmdZECuA">
